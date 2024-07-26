@@ -28,5 +28,4 @@ See Weather.h
 ### Example use ###
 See main.cpp
 
-### License ###
-GPLv3
+
